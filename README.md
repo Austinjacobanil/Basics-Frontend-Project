@@ -16,5 +16,3 @@ A modern and responsive frontend built using **React.js** and **Vite** for "Basi
 - **Build Tool:** Vite
 - **Styling:** CSS
 - **Version Control:** Git & GitHub
-
-
